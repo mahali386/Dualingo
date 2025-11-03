@@ -1,0 +1,5 @@
+{
+  "name": "LingoLearn AI",
+  "description": "An AI-powered language learning application, similar to Duolingo, that generates lessons and challenges to help you learn a new language step-by-step.",
+  "requestFramePermissions": []
+}
